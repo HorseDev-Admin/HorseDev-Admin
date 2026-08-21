@@ -28,4 +28,4 @@ Contáctame en: <a href="abysslord@duck.com">franklynrosalesdev@outlook.com</a>
 ------
 
 Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025
+Last Edited on: 21/08/2026
