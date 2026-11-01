@@ -3,7 +3,7 @@
 
 
 Soy estudiante de **Desarrollo de Software y ciberseguridad**.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end ademas de ciberseguridad a nivel basico**, y trab``ajo como **desarrollador de software independiente**.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end ademas de ciberseguridad a nivel basico**, y trabajo como **desarrollador de software independiente**.  
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="abysslord@duck.com">franklynrosalesdev@outlook.com</a> 
